@@ -15,7 +15,3 @@
 
 ### GroupDocs.Conversion for Java
 * https://products.groupdocs.com/conversion/java/
-
-### Bug
-
-![bug-groupdocs-conversion](https://user-images.githubusercontent.com/2354115/142490148-4c319ab3-db3a-4041-8560-46be246f3cf3.gif)
